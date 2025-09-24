@@ -1,4 +1,4 @@
-## Data Source for Cell2Spatial Reproduction
+## Analysis Code and Figure Source Data for Cell2Spatial
 | Species | Tissue      | Data Type | Platform       | No. Spots (Cells) | Source |
 |:-------:|:-----------:|:---------:|:--------------:|:---------:|:------:|
 | Mouse   | Brain       | ST        | 10X Visium     | 2696      | [Link](https://www.10xgenomics.com/resources/datasets/) |
