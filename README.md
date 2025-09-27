@@ -26,3 +26,5 @@
 | Mouse   | Cerebellum  | SC        | 10X Genomics   | 15609     | [Link](https://singlecell.broadinstitute.org/single_cell/study/SCP948) |
 | Mouse   | Cerebellum  | ST        | Slide-seq V2   | 11626     | [Link](https://singlecell.broadinstitute.org/single_cell/study/SCP948) |
 
+## Strutured ST and corresponding single-cell data can be accessed from te following site.
+- https://drive.google.com/file/d/13D9k1rb47XA7MBbpEcTgwxAlCXNEvdn-/view?usp=drive_link
