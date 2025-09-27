@@ -1,4 +1,4 @@
-## Analysis Codes and Figure Source Data for Cell2Spatial
+## 1) Analysis Codes and Figure Source Data for Cell2Spatial
 | Species | Tissue      | Data Type | Platform       | No. Spots (Cells) | Source |
 |:-------:|:-----------:|:---------:|:--------------:|:---------:|:------:|
 | Mouse   | Brain       | ST        | 10X Visium     | 2696      | [Link](https://www.10xgenomics.com/resources/datasets/) |
@@ -26,5 +26,5 @@
 | Mouse   | Cerebellum  | SC        | 10X Genomics   | 15609     | [Link](https://singlecell.broadinstitute.org/single_cell/study/SCP948) |
 | Mouse   | Cerebellum  | ST        | Slide-seq V2   | 11626     | [Link](https://singlecell.broadinstitute.org/single_cell/study/SCP948) |
 
-## Strutured ST and corresponding single-cell data can be accessed from te following site.
+## 2) Structured Spatial Transcriptomics (ST) and the corresponding single-cell data can be accessed from the following site.
 - https://drive.google.com/file/d/13D9k1rb47XA7MBbpEcTgwxAlCXNEvdn-/view?usp=drive_link
