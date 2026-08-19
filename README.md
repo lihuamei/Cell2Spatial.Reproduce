@@ -28,3 +28,6 @@
 
 ## 2) Structured Spatial Transcriptomics (ST) and the corresponding single-cell data can be accessed from the following site.
 - https://drive.google.com/file/d/13D9k1rb47XA7MBbpEcTgwxAlCXNEvdn-/view?usp=drive_link
+
+## 3) Citation
+Li, H., Liu, J., Wang, G., Liu, Z., Cao, M., Sun, L., ... & Xiong, Q. (2025). Cell2Spatial is a computational framework that maps single cells to spatial transcriptomic spots to reconstruct tissue architecture. PLoS biology, 23(11), e3003477.
